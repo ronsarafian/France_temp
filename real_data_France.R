@@ -14,8 +14,6 @@
 #   3. predictors are fitted on the training 
 #   4. For each of these 6 predictors, the target risk is the average loss on the test data.
 
-
-
 library(xgboost)
 library(data.table)
 library(ggplot2)
